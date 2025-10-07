@@ -1,3 +1,5 @@
+Name = Agradeep Sarkar
+
 # Business Dashboard 📈
 
 This project is a Business Dashboard created using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides various components to visualize essential business metrics and insights. The dashboard utilizes the Recharts library for displaying graphical representations. Vite is used for the frontend development environment.
